@@ -6,3 +6,5 @@ let g:onedark_termcolors=256
 "Markdown
 let vim_markdown_preview_github=1
 let vim_markdown_preview_browser='firefox'
+
+

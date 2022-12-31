@@ -13,6 +13,7 @@ Plugin 'ryanoasis/vim-devicons'
 Plugin 'godlygeek/tabular'
 Plugin 'preservim/vim-markdown'
 Plugin 'instant-markdown/vim-instant-markdown'
+
 call vundle#end()           " required
 filetype plugin indent on   "required
 

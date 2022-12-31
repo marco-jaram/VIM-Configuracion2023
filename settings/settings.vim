@@ -13,8 +13,9 @@ set numberwidth=1
 set showcmd
 set ruler
 set showmatch
-set relativenumber 
-
+"set relativenumber 
+set number
+set textwidth=80 "El margen es fijado a 80 columnas
 let mapleader=" "
 
 " Mis atajos
